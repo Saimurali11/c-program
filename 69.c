@@ -37,5 +37,5 @@ void count_vowels_and_consonants(char *str, int *num_vowels, int *num_consonants
             }
         }
         ptr++;
-    }
+    } 
 }
